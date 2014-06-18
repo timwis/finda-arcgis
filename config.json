@@ -15,26 +15,18 @@
         ]
     },
     "properties":{
-        "organization_name": {},
-        "address": {},
-        "web_url": { "title": "website", "url": true },
-
-        "contact_names": { "title": "Contact Information" },
-        "contact_emails": {},
-        "phone_numbers": {},
-
-        "services_offered": { "title": "Services" },
-        "youth_category": { "title": "Type of Organization" },
-        "target_populations": { "title": "Populations Served" },
-
-        "additional_notes": { "title": "Information"}
+        "NAME": { "title": "Name" },
+        "ADDRESS": { "title": "Address" },
+        "ZIPCODE": { "title": "Zip Code" },
+        "DISTRICT": { "title": "District" },
+        "WEBSITE": { "title": "website", "url": true }
     },
     "search": {
         "geosearch": true
     },
     "facets": {
-        "youth_category": {
-            "title": "Category",
+        "ZIPCODE": {
+            "title": "Zip Code",
             "type": "single"
         }
     },
@@ -45,5 +37,5 @@
     "hostname": "auto",
     "detail_enabled": true
   },
-  "geojson_source": "data.geojson"
+  "geojson_source": "http://gis.phila.gov/arcgis/rest/services/PhilaGov/Recreation_Facilities/MapServer/0/query?where=1%3D1&text=&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=4326&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&returnDistinctValues=false&f=pjson"
 }

@@ -6,7 +6,8 @@ require.config({
       'leaflet': '../lib/leaflet/leaflet',
       'handlebars': '../lib/handlebars',
       'lodash': '../lib/lodash.min',
-      'flight': '../lib/flight.min'
+      'flight': '../lib/flight.min',
+      'jsonConverters': '../lib/jsonConverters'
     },
     shim: {
       'handlebars': {
@@ -22,6 +23,9 @@ require.config({
       'bootstrap': {
         deps: ['jquery'],
         exports: '$'
+      },
+      'jsonConverters': {
+        exports: 'jsonConverters'
       }
     }
 });

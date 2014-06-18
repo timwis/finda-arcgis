@@ -1,0 +1,2399 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2696615.4308343083,
+          222706.20050904155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "NAME": "Murphy",
+        "DISTRICT": 7,
+        "ADDRESS": "300 SHUNK ST",
+        "ZIPCODE": "19148",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2680534.326841727,
+          231914.89764280617
+        ]
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "NAME": "48th & Woodland",
+        "DISTRICT": 8,
+        "ADDRESS": "4740 WOODLAND AVE",
+        "ZIPCODE": "19143",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2696816.0301706493,
+          241498.99953754246
+        ]
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "NAME": "East Poplar",
+        "DISTRICT": 6,
+        "ADDRESS": "800 N 08TH ST",
+        "ZIPCODE": "19123",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2698457.6646826416,
+          243941.79616113007
+        ]
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "NAME": "Cruz",
+        "DISTRICT": 2,
+        "ADDRESS": "1400-52 N 05TH ST",
+        "ZIPCODE": "19122",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2730762.151254639,
+          267719.2600890547
+        ]
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "NAME": "Holmesburg",
+        "DISTRICT": 1,
+        "ADDRESS": "4500 RHAWN ST",
+        "ZIPCODE": "19136",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2705853.1416895688,
+          246735.89555980265
+        ]
+      },
+      "properties": {
+        "OBJECTID": 71,
+        "NAME": "Cione",
+        "DISTRICT": 2,
+        "ADDRESS": "2600 ARAMINGO AVE",
+        "ZIPCODE": "19125",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2687219.2232488096,
+          274204.4734965414
+        ]
+      },
+      "properties": {
+        "OBJECTID": 72,
+        "NAME": "Pleasant",
+        "DISTRICT": 4,
+        "ADDRESS": "6750 BOYER ST",
+        "ZIPCODE": "19119",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2688971.2322119772,
+          245248.95693263412
+        ]
+      },
+      "properties": {
+        "OBJECTID": 73,
+        "NAME": "Athletic",
+        "DISTRICT": 6,
+        "ADDRESS": "1401-55 N 27TH ST",
+        "ZIPCODE": "19121",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2691942.949037567,
+          262113.0422988832
+        ]
+      },
+      "properties": {
+        "OBJECTID": 74,
+        "NAME": "Happy Hollow",
+        "DISTRICT": 4,
+        "ADDRESS": "4740 WAYNE AVE",
+        "ZIPCODE": "19144",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2712600.42675139,
+          261708.3777538836
+        ]
+      },
+      "properties": {
+        "OBJECTID": 75,
+        "NAME": "Simpson",
+        "DISTRICT": 3,
+        "ADDRESS": "1010 ARROTT ST",
+        "ZIPCODE": "19124",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=835"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2711189.1539833993,
+          247648.78054505587
+        ]
+      },
+      "properties": {
+        "OBJECTID": 76,
+        "NAME": "Monkiewicz",
+        "DISTRICT": 2,
+        "ADDRESS": "3201 RICHMOND ST",
+        "ZIPCODE": "19134",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2671664.557179734,
+          246253.30662997067
+        ]
+      },
+      "properties": {
+        "OBJECTID": 77,
+        "NAME": "Tustin",
+        "DISTRICT": 8,
+        "ADDRESS": "5901-29 W COLUMBIA AVE",
+        "ZIPCODE": "19151",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=843"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2688187.7075323164,
+          229834.0832348764
+        ]
+      },
+      "properties": {
+        "OBJECTID": 78,
+        "NAME": "Wharton Square",
+        "DISTRICT": 7,
+        "ADDRESS": "1300 S 23RD ST",
+        "ZIPCODE": "19146",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2694556.123601228,
+          269077.706191048
+        ]
+      },
+      "properties": {
+        "OBJECTID": 79,
+        "NAME": "Belfield",
+        "DISTRICT": 4,
+        "ADDRESS": "2109 W CHEW AVE",
+        "ZIPCODE": "19138",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2693383.792284474,
+          229118.36977130175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 80,
+        "NAME": "Columbus Square",
+        "DISTRICT": 7,
+        "ADDRESS": "1200 WHARTON ST",
+        "ZIPCODE": "19147",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=727"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2694767.993912399,
+          229397.12052613497
+        ]
+      },
+      "properties": {
+        "OBJECTID": 81,
+        "NAME": "Capitolo",
+        "DISTRICT": 7,
+        "ADDRESS": "900 FEDERAL ST",
+        "ZIPCODE": "19147",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=716"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2686531.937549889,
+          228240.49390238523
+        ]
+      },
+      "properties": {
+        "OBJECTID": 82,
+        "NAME": "Vare",
+        "DISTRICT": 7,
+        "ADDRESS": "2600 MORRIS ST",
+        "ZIPCODE": "19145",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2688022.1146876514,
+          234386.15385513008
+        ]
+      },
+      "properties": {
+        "OBJECTID": 83,
+        "NAME": "Markward",
+        "DISTRICT": 7,
+        "ADDRESS": "400-16 S TANEY ST",
+        "ZIPCODE": "19103",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=785"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2685593.1858184785,
+          274378.6385025531
+        ]
+      },
+      "properties": {
+        "OBJECTID": 84,
+        "NAME": "Mt Airy",
+        "DISTRICT": 4,
+        "ADDRESS": "7001 GERMANTOWN AVE",
+        "ZIPCODE": "19119",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=799"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2674168.7621450573,
+          265106.146876961
+        ]
+      },
+      "properties": {
+        "OBJECTID": 85,
+        "NAME": "Hillside",
+        "DISTRICT": 4,
+        "ADDRESS": "201 FOUNTAIN ST",
+        "ZIPCODE": "19127",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2689598.9599591494,
+          222680.0680153817
+        ]
+      },
+      "properties": {
+        "OBJECTID": 86,
+        "NAME": "Barry",
+        "DISTRICT": 7,
+        "ADDRESS": "1800 JOHNSTON ST",
+        "ZIPCODE": "19145",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2716141.5830549,
+          263129.5927592218
+        ]
+      },
+      "properties": {
+        "OBJECTID": 87,
+        "NAME": "McIlvain",
+        "DISTRICT": 2,
+        "ADDRESS": "5200 N PENN ST",
+        "ZIPCODE": "19124",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2696835.61838606,
+          244678.59127546847
+        ]
+      },
+      "properties": {
+        "OBJECTID": 88,
+        "NAME": "Dendy",
+        "DISTRICT": 6,
+        "ADDRESS": "1501-39 N 10TH ST",
+        "ZIPCODE": "19122",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2702017.0092699826,
+          245670.5810893774
+        ]
+      },
+      "properties": {
+        "OBJECTID": 89,
+        "NAME": "Shissler",
+        "DISTRICT": 6,
+        "ADDRESS": "1800-56 BLAIR ST",
+        "ZIPCODE": "19125",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2697033.6261921376,
+          229494.1383767128
+        ]
+      },
+      "properties": {
+        "OBJECTID": 90,
+        "NAME": "Sacks",
+        "DISTRICT": 7,
+        "ADDRESS": "400 WASHINGTON AVE",
+        "ZIPCODE": "19147",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=883"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2689949.4120141417,
+          248886.68423721194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 91,
+        "NAME": "Gathers",
+        "DISTRICT": 6,
+        "ADDRESS": "2501-59 DIAMOND ST",
+        "ZIPCODE": "19121",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2688123.9806256443,
+          270823.1226477176
+        ]
+      },
+      "properties": {
+        "OBJECTID": 92,
+        "NAME": "Mallery",
+        "DISTRICT": 4,
+        "ADDRESS": "100-70 E JOHNSON ST",
+        "ZIPCODE": "19144",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2688686.3535166383,
+          283069.1677093804
+        ]
+      },
+      "properties": {
+        "OBJECTID": 93,
+        "NAME": "Emanuel",
+        "DISTRICT": 4,
+        "ADDRESS": "8500 PICKERING AVE",
+        "ZIPCODE": "19150",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2692318.340347141,
+          241948.752246961
+        ]
+      },
+      "properties": {
+        "OBJECTID": 94,
+        "NAME": "Francisville",
+        "DISTRICT": 6,
+        "ADDRESS": "1737-39 FRANCIS ST",
+        "ZIPCODE": "19130",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=746"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2689773.1124979854,
+          254188.49253121018
+        ]
+      },
+      "properties": {
+        "OBJECTID": 95,
+        "NAME": "Shuler",
+        "DISTRICT": 6,
+        "ADDRESS": "2901 N 29TH ST",
+        "ZIPCODE": "19132",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2691369.7297115624,
+          232285.45234788954
+        ]
+      },
+      "properties": {
+        "OBJECTID": 96,
+        "NAME": "Anderson",
+        "DISTRICT": 7,
+        "ADDRESS": "740 S 17TH ST",
+        "ZIPCODE": "19146",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2726076.345337555,
+          264810.2199753821
+        ]
+      },
+      "properties": {
+        "OBJECTID": 97,
+        "NAME": "Disston",
+        "DISTRICT": 2,
+        "ADDRESS": "4423 LONGSHORE AVE",
+        "ZIPCODE": "19135",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2704739.1301380545,
+          261811.23647205532
+        ]
+      },
+      "properties": {
+        "OBJECTID": 98,
+        "NAME": "Feltonville",
+        "DISTRICT": 3,
+        "ADDRESS": "231-37 E WYOMING AVE",
+        "ZIPCODE": "19120",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2695158.589915976,
+          232154.91553546488
+        ]
+      },
+      "properties": {
+        "OBJECTID": 99,
+        "NAME": "Palumbo",
+        "DISTRICT": 7,
+        "ADDRESS": "700 S 09TH ST",
+        "ZIPCODE": "19147",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2673715.566201061,
+          234214.40977604687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 100,
+        "NAME": "Christy",
+        "DISTRICT": 8,
+        "ADDRESS": "728 S 55TH ST",
+        "ZIPCODE": "19143",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2670040.1532763094,
+          219429.04925496876
+        ]
+      },
+      "properties": {
+        "OBJECTID": 101,
+        "NAME": "Cibotti",
+        "DISTRICT": 8,
+        "ADDRESS": "2500 S 77TH ST",
+        "ZIPCODE": "19153",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=723"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2721397.068606898,
+          265016.0761909634
+        ]
+      },
+      "properties": {
+        "OBJECTID": 102,
+        "NAME": "Lower Mayfair",
+        "DISTRICT": 2,
+        "ADDRESS": "3001 ROBBINS ST",
+        "ZIPCODE": "19149",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2711295.934281647,
+          253191.00141596794
+        ]
+      },
+      "properties": {
+        "OBJECTID": 103,
+        "NAME": "Heitzman",
+        "DISTRICT": 2,
+        "ADDRESS": "2136 CASTOR AVE",
+        "ZIPCODE": "19134",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2690741.942253232,
+          230891.84063379467
+        ]
+      },
+      "properties": {
+        "OBJECTID": 104,
+        "NAME": "Chew",
+        "DISTRICT": 7,
+        "ADDRESS": "1800 WASHINGTON AVE",
+        "ZIPCODE": "19146",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2685477.781193644,
+          230651.36539296806
+        ]
+      },
+      "properties": {
+        "OBJECTID": 105,
+        "NAME": "D. Finnegan",
+        "DISTRICT": 7,
+        "ADDRESS": "1231 S 30TH ST",
+        "ZIPCODE": "19146",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2678694.1986322254,
+          240596.2880883813
+        ]
+      },
+      "properties": {
+        "OBJECTID": 106,
+        "NAME": "Mill Creek",
+        "DISTRICT": 8,
+        "ADDRESS": "743-81 N 48TH ST",
+        "ZIPCODE": "19139",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2684313.643430069,
+          241412.87011663616
+        ]
+      },
+      "properties": {
+        "OBJECTID": 107,
+        "NAME": "Miles Mack",
+        "DISTRICT": 8,
+        "ADDRESS": "732-66 N 36TH ST",
+        "ZIPCODE": "19104",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2692108.241029814,
+          240925.97345262766
+        ]
+      },
+      "properties": {
+        "OBJECTID": 108,
+        "NAME": "Clemente",
+        "DISTRICT": 6,
+        "ADDRESS": "1800 WALLACE ST",
+        "ZIPCODE": "19130",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2675368.1478696465,
+          243958.23412038386
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "NAME": "Conestoga",
+        "DISTRICT": 8,
+        "ADDRESS": "5200-300 MEDIA ST",
+        "ZIPCODE": "19131",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=728"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2711714.120781228,
+          250607.78020446002
+        ]
+      },
+      "properties": {
+        "OBJECTID": 110,
+        "NAME": "Samuel",
+        "DISTRICT": 2,
+        "ADDRESS": "2501 E TIOGA ST",
+        "ZIPCODE": "19134",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2725106.4827759713,
+          262306.74663588405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 111,
+        "NAME": "Dorsey",
+        "DISTRICT": 2,
+        "ADDRESS": "6501 HEGERMAN ST",
+        "ZIPCODE": "19135",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=732"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2697065.5874143094,
+          252423.72112637758
+        ]
+      },
+      "properties": {
+        "OBJECTID": 112,
+        "NAME": "12th & Cambria",
+        "DISTRICT": 3,
+        "ADDRESS": "1149 W CAMBRIA ST",
+        "ZIPCODE": "19133",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2696588.866254896,
+          232721.4045599699
+        ]
+      },
+      "properties": {
+        "OBJECTID": 113,
+        "NAME": "Starr Garden",
+        "DISTRICT": 7,
+        "ADDRESS": "600-44 LOMBARD ST",
+        "ZIPCODE": "19147",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2691208.057462722,
+          225311.0260080546
+        ]
+      },
+      "properties": {
+        "OBJECTID": 114,
+        "NAME": "Guerin",
+        "DISTRICT": 7,
+        "ADDRESS": "2201 S 16TH ST",
+        "ZIPCODE": "19145",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2692083.3467226475,
+          227592.23338788748
+        ]
+      },
+      "properties": {
+        "OBJECTID": 115,
+        "NAME": "DiSilvestro",
+        "DISTRICT": 7,
+        "ADDRESS": "1700 S BROAD ST",
+        "ZIPCODE": "19145",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2696504.6203603894,
+          248476.35074029863
+        ]
+      },
+      "properties": {
+        "OBJECTID": 116,
+        "NAME": "Penrose",
+        "DISTRICT": 6,
+        "ADDRESS": "1101 W SUSQUEHANNA AVE",
+        "ZIPCODE": "19133",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2694819.0394139737,
+          232967.2593832165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 117,
+        "NAME": "Seger",
+        "DISTRICT": 7,
+        "ADDRESS": "1000-42 LOMBARD ST",
+        "ZIPCODE": "19147",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=829"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2700643.631767392,
+          243802.04644063115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 118,
+        "NAME": "Hancock",
+        "DISTRICT": 2,
+        "ADDRESS": "147 MASTER ST",
+        "ZIPCODE": "19122",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2701209.316987723,
+          245846.49149870872
+        ]
+      },
+      "properties": {
+        "OBJECTID": 119,
+        "NAME": "Towey",
+        "DISTRICT": 6,
+        "ADDRESS": "1832-50 N HOWARD ST",
+        "ZIPCODE": "19122",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2703272.067127317,
+          243480.52674245834
+        ]
+      },
+      "properties": {
+        "OBJECTID": 120,
+        "NAME": "Fishtown",
+        "DISTRICT": 2,
+        "ADDRESS": "1202-32 E MONTGOMERY AVE",
+        "ZIPCODE": "19125",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2698634.540969312,
+          229916.68411955237
+        ]
+      },
+      "properties": {
+        "OBJECTID": 121,
+        "NAME": "Shot Tower",
+        "DISTRICT": 7,
+        "ADDRESS": "101-31 CARPENTER ST",
+        "ZIPCODE": "19147",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=832"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2694122.2409388125,
+          246803.15034654737
+        ]
+      },
+      "properties": {
+        "OBJECTID": 122,
+        "NAME": "Amos",
+        "DISTRICT": 6,
+        "ADDRESS": "1817-59 N 16TH ST",
+        "ZIPCODE": "19121",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=704"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2693698.232928559,
+          231053.0086185485
+        ]
+      },
+      "properties": {
+        "OBJECTID": 123,
+        "NAME": "Hawthorne",
+        "DISTRICT": 7,
+        "ADDRESS": "1200 CARPENTER ST",
+        "ZIPCODE": "19147",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2674308.2188871503,
+          244674.9977787137
+        ]
+      },
+      "properties": {
+        "OBJECTID": 124,
+        "NAME": "Baker",
+        "DISTRICT": 8,
+        "ADDRESS": "5431-43 LANSDOWNE AVE",
+        "ZIPCODE": "19131",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2697700.0067491382,
+          247452.65692155063
+        ]
+      },
+      "properties": {
+        "OBJECTID": 125,
+        "NAME": "8th & Diamond",
+        "DISTRICT": 6,
+        "ADDRESS": "2032-62 N 08TH ST",
+        "ZIPCODE": "19122",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2700235.5210350603,
+          249692.3210773766
+        ]
+      },
+      "properties": {
+        "OBJECTID": 126,
+        "NAME": "Nelson",
+        "DISTRICT": 6,
+        "ADDRESS": "2500-34 N 03RD ST",
+        "ZIPCODE": "19133",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2699007.2574154735,
+          240072.43480537832
+        ]
+      },
+      "properties": {
+        "OBJECTID": 127,
+        "NAME": "Northern Liberties",
+        "DISTRICT": 2,
+        "ADDRESS": "313-27 FAIRMOUNT AVE",
+        "ZIPCODE": "19123",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2710569.552860394,
+          249050.78988012671
+        ]
+      },
+      "properties": {
+        "OBJECTID": 128,
+        "NAME": "Glavin",
+        "DISTRICT": 2,
+        "ADDRESS": "3267-81 ALMOND ST",
+        "ZIPCODE": "19134",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2687280.4606591463,
+          241973.89589746296
+        ]
+      },
+      "properties": {
+        "OBJECTID": 129,
+        "NAME": "Lloyd Hall",
+        "DISTRICT": 5,
+        "ADDRESS": "1 JOHN B KELLY DR",
+        "ZIPCODE": "19130",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2702567.3237861395,
+          254460.47984813154
+        ]
+      },
+      "properties": {
+        "OBJECTID": 130,
+        "NAME": "Schmidt",
+        "DISTRICT": 3,
+        "ADDRESS": "113-23 W ONTARIO ST",
+        "ZIPCODE": "19140",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=828"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2731674.429285735,
+          287560.2519030422
+        ]
+      },
+      "properties": {
+        "OBJECTID": 131,
+        "NAME": "Hayes",
+        "DISTRICT": 1,
+        "ADDRESS": "9850 E ROOSEVELT BLV",
+        "ZIPCODE": "19115",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2691941.4716783166,
+          251107.01706688106
+        ]
+      },
+      "properties": {
+        "OBJECTID": 132,
+        "NAME": "C. B. Moore",
+        "DISTRICT": 6,
+        "ADDRESS": "2020-50 W LEHIGH AVE",
+        "ZIPCODE": "19132",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2693570.7758343965,
+          255798.32690995932
+        ]
+      },
+      "properties": {
+        "OBJECTID": 133,
+        "NAME": "Jerome Brown",
+        "DISTRICT": 4,
+        "ADDRESS": "1927-41 W ONTARIO ST",
+        "ZIPCODE": "19140",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2698401.6670912355,
+          259760.661504969
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "NAME": "Hunting Park",
+        "DISTRICT": 3,
+        "ADDRESS": "1101 W HUNTING PARK AVE",
+        "ZIPCODE": "19140",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2719349.0973091424,
+          263158.8135012984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "NAME": "Wissinoming",
+        "DISTRICT": 2,
+        "ADDRESS": "5801 FRANKFORD AVE",
+        "ZIPCODE": "19135",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2692546.8316880614,
+          273002.24657030404
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "NAME": "Awbury",
+        "DISTRICT": 4,
+        "ADDRESS": "6101 ARDLEIGH ST",
+        "ZIPCODE": "19138",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=708"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2701456.6977265626,
+          269513.24337771535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "NAME": "Fisher Park",
+        "DISTRICT": 3,
+        "ADDRESS": "6000 N 05TH ST",
+        "ZIPCODE": "19120",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2746244.077967897,
+          292868.13006679714
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "NAME": "Junod",
+        "DISTRICT": 1,
+        "ADDRESS": "3102 MECHANICSVILLE RD",
+        "ZIPCODE": "19154",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2669395.1476765573,
+          218269.27499972284
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "NAME": "Eastwick Regional",
+        "DISTRICT": 8,
+        "ADDRESS": "80TH ST & MARS PL",
+        "ZIPCODE": "19153",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2740489.483834058,
+          290610.50794163346
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "NAME": "Palmer",
+        "DISTRICT": 1,
+        "ADDRESS": "11701 THORNTON RD",
+        "ZIPCODE": "19154",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=807"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2674884.399165228,
+          221902.86943854392
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "NAME": "J. Finnegan",
+        "DISTRICT": 8,
+        "ADDRESS": "6801 GROVERS AVE",
+        "ZIPCODE": "19142",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2709857.5975914,
+          270980.1994332969
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "NAME": "Lawncrest",
+        "DISTRICT": 3,
+        "ADDRESS": "6000 RISING SUN AVE",
+        "ZIPCODE": "19111",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2724607.3289186507,
+          265054.7194863856
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "NAME": "Vogt",
+        "DISTRICT": 2,
+        "ADDRESS": "4131 UNRUH AVE",
+        "ZIPCODE": "19135",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2723606.2990965545,
+          261201.77443638444
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "NAME": "American Legion",
+        "DISTRICT": 2,
+        "ADDRESS": "6201 TORRESDALE AVE",
+        "ZIPCODE": "19135",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=703"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2737612.469246894,
+          273488.1576719582
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "NAME": "Jacobs",
+        "DISTRICT": 1,
+        "ADDRESS": "9050 TORRESDALE AVE",
+        "ZIPCODE": "19136",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2715296.187107891,
+          280739.7343761325
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "NAME": "Fox Chase",
+        "DISTRICT": 1,
+        "ADDRESS": "601 BORBECK AVE",
+        "ZIPCODE": "19111",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2738711.6668516397,
+          276354.9311378747
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "NAME": "Torresdale",
+        "DISTRICT": 1,
+        "ADDRESS": "9550 FRANKFORD AVE",
+        "ZIPCODE": "19114",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2693881.487155229,
+          275673.69956071675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "NAME": "Simons",
+        "DISTRICT": 4,
+        "ADDRESS": "1601-35 E WALNUT LA",
+        "ZIPCODE": "19138",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2705623.193986729,
+          269344.1032960415
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "NAME": "Olney",
+        "DISTRICT": 3,
+        "ADDRESS": "100 E GODFREY AVE",
+        "ZIPCODE": "19120",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2729186.38045606,
+          265506.62573480606
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "NAME": "Russo Park",
+        "DISTRICT": 1,
+        "ADDRESS": "7301 TORRESDALE AVE",
+        "ZIPCODE": "19136",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2718720.772122234,
+          268190.4445141256
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "NAME": "Max Myers",
+        "DISTRICT": 1,
+        "ADDRESS": "1601 HELLERMAN ST",
+        "ZIPCODE": "19149",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2745254.835851893,
+          284459.4792332202
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "NAME": "Chalfont",
+        "DISTRICT": 1,
+        "ADDRESS": "4336 DEERPATH LA",
+        "ZIPCODE": "19154",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=719"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2681903.0006135553,
+          257734.74331271648
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "NAME": "Gustine",
+        "DISTRICT": 4,
+        "ADDRESS": "4868 RIDGE AVE",
+        "ZIPCODE": "19129",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=875"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2728449.46460706,
+          291211.64158187807
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "NAME": "Lackman",
+        "DISTRICT": 1,
+        "ADDRESS": "800 BARTLETT ST",
+        "ZIPCODE": "19115",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=774"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2717482.010164067,
+          259322.25588572025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "NAME": "Gambrel",
+        "DISTRICT": 2,
+        "ADDRESS": "1900 WAKELING ST",
+        "ZIPCODE": "19124",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=749"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2717880.164223388,
+          258343.08035063744
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "NAME": "Carmella",
+        "DISTRICT": 2,
+        "ADDRESS": "2100 WAKELING ST",
+        "ZIPCODE": "19124",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2724051.6417098045,
+          276775.1218985468
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "NAME": "Pelbano",
+        "DISTRICT": 1,
+        "ADDRESS": "8101 BUSTLETON AVE",
+        "ZIPCODE": "19152",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=819"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2716685.3175317347,
+          274522.482703045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "NAME": "Jardel",
+        "DISTRICT": 1,
+        "ADDRESS": "1400 COTTMAN AVE",
+        "ZIPCODE": "19111",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2735357.576775059,
+          299465.21956288815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "NAME": "Boyle",
+        "DISTRICT": 1,
+        "ADDRESS": "13024 STEVENS RD",
+        "ZIPCODE": "19116",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=714"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2695871.9034499824,
+          262510.6589577198
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "NAME": "Stenton Park",
+        "DISTRICT": 4,
+        "ADDRESS": "4600 N 16TH ST",
+        "ZIPCODE": "19140",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2735324.20643498,
+          275297.2327939719
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "NAME": "Thomas Holme",
+        "DISTRICT": 1,
+        "ADDRESS": "9152 ACADEMY RD",
+        "ZIPCODE": "19114",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=882"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2667118.843174055,
+          243575.39171022177
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "NAME": "Papa",
+        "DISTRICT": 8,
+        "ADDRESS": "6839 LANSDOWNE AVE",
+        "ZIPCODE": "19151",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2681723.1105533987,
+          280648.7325896323
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "NAME": "Water Tower",
+        "DISTRICT": 4,
+        "ADDRESS": "209-99 E HARTWELL LA",
+        "ZIPCODE": "19118",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2731319.5143131465,
+          271878.3836605549
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "NAME": "Ramp",
+        "DISTRICT": 1,
+        "ADDRESS": "3300-40 SOLLY AVE",
+        "ZIPCODE": "19136",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2740738.5505931377,
+          284006.4240369648
+        ]
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "NAME": "Picariello",
+        "DISTRICT": 1,
+        "ADDRESS": "3325 RED LION RD",
+        "ZIPCODE": "19154",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=812"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2680340.153673649,
+          239125.73952029645
+        ]
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "NAME": "Lee Cultural Center",
+        "DISTRICT": 8,
+        "ADDRESS": "4310 HAVERFORD AVE",
+        "ZIPCODE": "19104",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2678583.6224098057,
+          232149.97984980047
+        ]
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "NAME": "Kingsessing",
+        "DISTRICT": 8,
+        "ADDRESS": "4901 KINGSESSING AVE",
+        "ZIPCODE": "19143",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=773"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2712228.048887223,
+          264623.42704188824
+        ]
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "NAME": "Houseman",
+        "DISTRICT": 3,
+        "ADDRESS": "5091 SUMMERDALE AVE",
+        "ZIPCODE": "19124",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=764"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2673377.9510626495,
+          278132.463343963
+        ]
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "NAME": "Houston",
+        "DISTRICT": 4,
+        "ADDRESS": "900 GRAKYN LA",
+        "ZIPCODE": "19128",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2673443.6389233917,
+          240870.7632612139
+        ]
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "NAME": "Shepard",
+        "DISTRICT": 8,
+        "ADDRESS": "5700 HAVERFORD AVE",
+        "ZIPCODE": "19131",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2679212.5233829767,
+          263568.8372875452
+        ]
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "NAME": "Kendrick",
+        "DISTRICT": 4,
+        "ADDRESS": "5822-24 RIDGE AVE",
+        "ZIPCODE": "19128",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2719896.3970675617,
+          253983.71046046913
+        ]
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "NAME": "Bridesburg",
+        "DISTRICT": 2,
+        "ADDRESS": "4625 RICHMOND ST",
+        "ZIPCODE": "19137",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=715"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2669420.335618317,
+          237579.33185195923
+        ]
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "NAME": "Cobbs Creek",
+        "DISTRICT": 8,
+        "ADDRESS": "250 S 63RD ST",
+        "ZIPCODE": "19139",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2675411.8482415676,
+          229100.9495305419
+        ]
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "NAME": "Myers",
+        "DISTRICT": 8,
+        "ADDRESS": "5800 CHESTER AVE",
+        "ZIPCODE": "19143",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2687149.131525472,
+          226098.16321329772
+        ]
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "NAME": "Smith",
+        "DISTRICT": 7,
+        "ADDRESS": "2200 S 24TH ST",
+        "ZIPCODE": "19145",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2686448.0522189736,
+          256534.5048995465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "NAME": "McDevitt",
+        "DISTRICT": 4,
+        "ADDRESS": "3500 CRAWFORD ST",
+        "ZIPCODE": "19129",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2705175.3070872277,
+          266279.7934798002
+        ]
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "NAME": "Ziehler",
+        "DISTRICT": 3,
+        "ADDRESS": "200-64 E OLNEY AVE",
+        "ZIPCODE": "19120",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=857"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2740498.2692495584,
+          279635.22378988564
+        ]
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "NAME": "Mitchell",
+        "DISTRICT": 1,
+        "ADDRESS": "3694 CHESTERFIELD RD",
+        "ZIPCODE": "19114",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2690628.387362227,
+          277029.87499795854
+        ]
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "NAME": "Finley",
+        "DISTRICT": 4,
+        "ADDRESS": "7701 MANSFIELD AVE",
+        "ZIPCODE": "19150",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2730516.936521977,
+          296544.7624772936
+        ]
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "NAME": "Gifford",
+        "DISTRICT": 1,
+        "ADDRESS": "575 TOMLINSON RD",
+        "ZIPCODE": "19116",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=752"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2697152.4291041493,
+          272022.02051238716
+        ]
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "NAME": "Morris Estate",
+        "DISTRICT": 4,
+        "ADDRESS": "1610 CHELTEN AVE",
+        "ZIPCODE": "19141",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2704725.1062159836,
+          253802.67735797167
+        ]
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "NAME": "McVeigh",
+        "DISTRICT": 3,
+        "ADDRESS": "400-64 E ONTARIO ST",
+        "ZIPCODE": "19134",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2730748.681465313,
+          276799.52965813875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "NAME": "McArdle",
+        "DISTRICT": 1,
+        "ADDRESS": "8930 ASHTON RD",
+        "ZIPCODE": "19152",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=788"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2711627.9093394727,
+          258559.2961255461
+        ]
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "NAME": "Piccoli",
+        "DISTRICT": 3,
+        "ADDRESS": "1501 E BRISTOL ST",
+        "ZIPCODE": "19124",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2703600.263649389,
+          271628.63973747194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "NAME": "Sturgis",
+        "DISTRICT": 3,
+        "ADDRESS": "200-20 W 65TH AVE",
+        "ZIPCODE": "19126",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2700447.846397817,
+          264762.3716458827
+        ]
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "NAME": "Barrett",
+        "DISTRICT": 3,
+        "ADDRESS": "641 LINDLEY AVE",
+        "ZIPCODE": "19120",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2672422.4145879,
+          226021.0386956334
+        ]
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "NAME": "McCreesh",
+        "DISTRICT": 8,
+        "ADDRESS": "6744 REGENT ST",
+        "ZIPCODE": "19142",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=789"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2700322.012003809,
+          253871.36750930548
+        ]
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "NAME": "Rivera",
+        "DISTRICT": 3,
+        "ADDRESS": "3201 N 05TH ST",
+        "ZIPCODE": "19140",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2723389.868098974,
+          263713.3094395548
+        ]
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "NAME": "Roosevelt",
+        "DISTRICT": 2,
+        "ADDRESS": "4301 LEVICK ST",
+        "ZIPCODE": "19135",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2700167.8879682273,
+          267536.8526454717
+        ]
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "NAME": "Cherashore",
+        "DISTRICT": 3,
+        "ADDRESS": "851 W OLNEY AVE",
+        "ZIPCODE": "19141",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2668823.162928149,
+          241421.26773762703
+        ]
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "NAME": "Granahan",
+        "DISTRICT": 8,
+        "ADDRESS": "338-50 N 65TH ST",
+        "ZIPCODE": "19139",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=753"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2676596.2927230597,
+          241238.78713145852
+        ]
+      },
+      "properties": {
+        "OBJECTID": 59,
+        "NAME": "West Mill Creek",
+        "DISTRICT": 8,
+        "ADDRESS": "5100 WESTMINSTER AVE",
+        "ZIPCODE": "19139",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2691435.6780704856,
+          246509.67816446722
+        ]
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "NAME": "M.L. King",
+        "DISTRICT": 6,
+        "ADDRESS": "2101-35 CECIL B MOORE AVE",
+        "ZIPCODE": "19121",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=772"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2693694.525914982,
+          271726.2235317975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 61,
+        "NAME": "Lonnie Young",
+        "DISTRICT": 4,
+        "ADDRESS": "1100 E CHELTEN AVE",
+        "ZIPCODE": "19138",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2679384.646398306,
+          245495.1864270419
+        ]
+      },
+      "properties": {
+        "OBJECTID": 62,
+        "NAME": "Carousel House",
+        "DISTRICT": 5,
+        "ADDRESS": "1701 BELMONT AVE",
+        "ZIPCODE": "19131",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2745355.37403664,
+          290069.0953105539
+        ]
+      },
+      "properties": {
+        "OBJECTID": 63,
+        "NAME": "Fitzpatrick",
+        "DISTRICT": 1,
+        "ADDRESS": "3500 ACADEMY RD",
+        "ZIPCODE": "19154",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=742"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2691140.1448688954,
+          269795.0722103864
+        ]
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "NAME": "Waterview",
+        "DISTRICT": 4,
+        "ADDRESS": "5826 MC MAHON AVE",
+        "ZIPCODE": "19144",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=849"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2707667.210567981,
+          248185.6574240476
+        ]
+      },
+      "properties": {
+        "OBJECTID": 65,
+        "NAME": "Cohocksink",
+        "DISTRICT": 2,
+        "ADDRESS": "2901 CEDAR ST",
+        "ZIPCODE": "19134",
+        "WEBSITE": "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=726"
+      }
+    }
+  ]
+}
