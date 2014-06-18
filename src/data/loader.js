@@ -14,6 +14,7 @@ define(function(require, exports, module) {
           // Detect if it's ArcGIS JSON and convert it to GeoJSON if so
           if(data.hasOwnProperty('fields') && data.hasOwnProperty('features')) {
             data = jsonConverters.toGeoJson(data);
+            console.log(data);
           }
           this.trigger('data', data);
         }.bind(this));
